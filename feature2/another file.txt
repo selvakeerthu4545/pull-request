@@ -1,2 +1,3 @@
 this file was added to feature2 branch 
 another line
+has been changed
